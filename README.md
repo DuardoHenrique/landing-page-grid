@@ -5,11 +5,6 @@
 
 <br>
 
-## Visualização no tablet
-[<img src="./src/design/tablet.gif">](https://duardohenrique.github.io/landing-page-grid/)
-
-<br>
-
 ## Visualização no mobile
 [<img src="./src/design/mobile.gif">](https://duardohenrique.github.io/landing-page-grid/)
 
